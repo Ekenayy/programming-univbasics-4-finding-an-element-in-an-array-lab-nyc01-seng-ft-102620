@@ -2,11 +2,8 @@
 def find_element_index(array, value_to_find)
  counter = 0
   
-  while value_to_find != array[counter] do
-    counter += 1
-  if value_to_find = array[counter]
-    return index(value_to_find)
-  end
-end
+  while counter < array.length do
+    puts array[count] == value_to_find
+    count += 1
+  end 
 end 
-
