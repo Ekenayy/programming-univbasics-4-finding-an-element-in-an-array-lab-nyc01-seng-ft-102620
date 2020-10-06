@@ -4,5 +4,5 @@ def find_element_index(array, value_to_find)
   
   while value_to_find != array[counter] do
     
-    breakif array.includes?(value_to_find) = false
+  break if array.includes?(value_to_find) = false
 end
