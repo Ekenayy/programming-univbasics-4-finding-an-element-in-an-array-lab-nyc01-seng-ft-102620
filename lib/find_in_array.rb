@@ -1,7 +1,7 @@
 #loops over an array and compares value to value provided
 def find_element_index(array, value_to_find)
  counter = 0
- found_value_index = nil
+  = nil
   
   while counter < array.length do
     if array[count] == value_to_find
