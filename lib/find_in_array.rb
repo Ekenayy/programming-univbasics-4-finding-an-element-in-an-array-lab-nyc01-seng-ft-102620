@@ -1,3 +1,7 @@
+#loops over an array and compares value to value provided
 def find_element_index(array, value_to_find)
-  # Add your solution here
+  counter = 0
+  
+  while value_to_find != array[counter] do
+    
 end
